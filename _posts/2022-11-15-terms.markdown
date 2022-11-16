@@ -1,0 +1,158 @@
+---
+layout: post
+title:  "Terms of Use"
+date:   2022-11-15 18:11:06 +0300
+categories: legal
+---
+
+These Terms of Service (this “Agreement”) is a legal agreement between you (“you”) and Mikita Dzidzenka (“Company,” “we” or “us”) for use of mobile applications, the servers used by the application, the computer files stored on such servers, and all related services, features and content offered by the Company (collectively, the “App”).
+
+### Section 1. Acceptance of terms
+
+Please read this Agreement carefully. By creating an account or accessing or using the App, you acknowledge that you accept and agree to be bound by the terms of this Agreement. IF YOU DO NOT AGREE TO THESE TERMS, YOU MAY NOT ACCESS OR USE THE APP.
+
+We may modify this Agreement from time to time. We will notify you by email, through the App, or by presenting you with a new version of the Agreement for you to accept if we make modifications that materially change your rights. Your continued use of the App after the effective date of an updated version of the Agreement will indicate your acceptance of the Agreement as modified.
+
+### Section 2. Description
+
+The company creates apps in various genres from utilities to entertainment and others. You agree that Apps are provided “as-is” and on an as available basis.
+
+### Section 3. Registration and eligibility
+
+To use the App, you may be required to create or update an account (“Account”) and will be asked to provide certain personal information, which may include your name, gender, birth date, phone number and email address. This information will be held and used in accordance with our privacy policy, which can be found at “Privacy Policy”. You agree that you will supply accurate and complete information to the Company, and that you will update that information promptly after it changes.
+
+### Section 4. Your use of the App
+
+Any content you submit through the Apps is governed by the Company’s Privacy Policy. To the extent there is an inconsistency between this Agreement and the Company’s Privacy Policy, these Terms shall govern. If you submit a question or response, you are solely responsible for your own communications, the consequences of posting those communications, and your reliance on any communications found in the public areas. The Company and its licensors are not responsible for the consequences of any communications in the public areas.
+
+You agree that you will use the Apps for its intended purpose, and in compliance with all applicable laws and regulations: local, state, and national, and international, as applicable. You agree not to use the App in a fraudulent, disruptive, aggressive, manipulative, for money laundering, or any other inappropriate matter. Company reserves the right, but has no obligation, to investigate your use of the service for compliance with appropriate use and terminate your access to the App, or in order to comply with law, regulation, legal process or government request.
+
+You agree that if you take any of the following actions, you will be materially breaching this Agreement, and you agree that you shall not:
+
+а. resell, rent, lease, loan, sublicense, distribute, or otherwise transfer rights to the App;
+
+b. modifies, reverse engineer, decompile or disassemble the App;
+
+c. copy, adapt, alter, modify, translate, or create derivative works of the App without written authorization of the Company;
+
+d. permit other individuals to use the App, including but not limited to shared use via a network connection, except under the terms of this Agreement;
+
+e. circumvents or disable any technological features or measures in the App for protection of intellectual property rights;
+
+f. uses the App in an attempt to, or in conjunction with, any device, program, or service designed to circumvent technological measures employed to control access to, or the rights in, a content file or other work protected by the copyright laws of any jurisdiction;
+
+g. use or access the App to compile data in a manner that is used or usable by a competitive product or service;
+
+h. uses your Account to advertise, solicit, or transmit any commercial advertisements, including chain letters, junk e-mail or repetitive messages to anyone;
+
+i. uses your Account to engage in any illegal conduct;
+
+j. upload to transmit any communications that infringe or violate the rights of any party;
+
+k. upload media of any kind that contain expressions of hate, abuse, offensive images or conduct, obscenity, pornography, sexually explicit or any material that could give rise to any civil or criminal liability under applicable law or regulations or that otherwise may be in conflict with this Agreement and the Company’s Privacy Policy; or
+
+l. uploads any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or this website.
+
+Any such forbidden use shall immediately terminate your license to use the App.
+
+### Section 5. Children’s privacy
+
+We are committed to protecting the privacy of children. You should be aware that this App is not intended or designed to attract children under the age of 13. We do not collect personally identifiable information from any person we actually know is a child under the age of 13.
+
+If you are the EU resident, you shall be at least 16 years old in order to use the App. To the extent prohibited by applicable law, we do not allow use of the App by the EU residents younger than 16 years old. If you are aware of anyone from the EU younger than 16 using the App, please contact us at nsdidenko.developer@gmail.com and we will take steps to delete or terminate her account.
+
+### Section 6. Limited license to the App
+
+We grant you a personal, worldwide, revocable, non-transferable and non-exclusive license to access and use the App for personal and non-commercial purposes in accordance with the terms of this Agreement.
+
+All rights, title, and interest in and to the App not expressly granted in this Agreement are reserved by the Company. If you wish to use the Company’s software, title, trade name, trademark, service mark, logo, domain name and/or any other identification with notable brand features or other content owned by the Company, you must obtain written permission from the Company. Permission requests may be sent to nsdidenko.developer@gmail.com.
+
+### Section 7. License to User Content
+
+By providing your User Content to the App, you (a) grant the Company a non-exclusive, transferable, sublicensable, worldwide, royalty-free license to use, copy, exploit, modify, publicly display, publicly perform, create derivative works from, incorporate it into other works, change, reformat, and distribute your User Content in connection with providing and operating the App and related services and/or for the Company’s promotional purposes (for example, by displaying on our website, within the App, in social media, on any website or platform in the internet as we may deem appropriate), subject to the Privacy Policy; and (b) you agree to indemnify the Company and its affiliates, directors, officers, and employees and hold them harmless from any and all claims and expenses, including attorneys’ fees, arising from the media and/or your failure to company with the terms described in this Agreement.
+
+The Company reserves the right to review all User Content prior to submission to the site and to remove any media for any reason, at any time, without prior notice, at our sole discretion.
+
+### Section 8. Use at your own risk
+
+You agree to represent yourself honestly, that all of the information you provide is true, correct, and current, to the best of your knowledge, and that you have the necessary rights, power, authority, and age to agree to these Terms and to perform the acts required of you by the agreement.
+
+Company does not represent that the App is error-free, complete, or can be relied upon. The service is provided “AS IS” and “AS AVAILABLE” with no warranty of any kind and you are using the App at your own risk. Company disclaims any warranty, implied or otherwise, regarding the App, including warranty of merchantability, fitness for a particular purpose or non-infringement.
+
+Your access to the App may be terminated at any time, for any reason, at Company’s sole discretion.
+
+### Section 9. Subscriptions and payments.
+
+There are two kinds of payments available: one-off offers and subscriptions. One-off offers are charged once and immediately for the services provided. Prices are subject to change when new services become available.
+
+Users may have access to purchasing a paid monthly, semiannual, annual or any other subscription that may include additional features or services. Some of our subscriptions include a free trial period, where you can experience the App at no cost. Subscription with the free trial period will automatically renew to a paid subscription once your free trial expires. If you decide to unsubscribe from a paid subscription before we start charging your payment method, cancel the subscription before the free trial ends.
+
+The price at which App is offered may vary due to date of subscription, country, local taxes and regulations, promotions, and the Company reserves the right to change the price and subscription benefits at its sole discretion. App access may be suspended for overdue payments.
+
+We offer various subscription options. Payment will be charged to your credit/debit card through your iTunes or Google Play Store Account after you choose one of our subscriptions and confirm your purchase. Paid subscriptions automatically renew, unless auto-renew is turned off, until cancelled in the Manage Subscriptions section of your account settings. We will notify you if the price of subscription increases and, if required, seek your consent to continue. You will be charged no more than 24 hours prior to the start of the latest paid subscription period.
+
+### Section 10. Passwords
+
+You are responsible for taking all reasonable steps to ensure that no unauthorized person shall have access to your App passwords or account. It is your sole responsibility to (1) control the dissemination and use of sign-in name, screen name and passwords; (2) authorize, monitory, and control access to and use of your App account and password; (3) promptly inform the Company if you believe your account or password has been compromised or if there is any other reason you need to deactivate a password. Send us an email at nsdidenko.developer@gmail.com. You grant the Company and all other persons or entities involved in the operation of the App the right to transmit, monitor, retrieve, store, and use your information in connection with the operation of the App. The Company cannot and does not assume any responsibility or liability for any information you submit, or your or third parties’ use or misuse of information transmitted or received using the App.
+
+### Section 11. Warranty disclaimer
+
+The Company controls and operates the App from various locations and makes no representation that the App is appropriate or available for use in all locations. The App or certain features of it may not be available in your location or may vary across locations.
+
+THE APP IS PROVIDED “AS IS”, “AS AVAILABLE” AND IS PROVIDED WITHOUT ANY REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY COURSE OF PERFORMANCE OR USAGE OF TRADE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED, SAVE TO THE EXTENT REQUIRED BY LAW. THE COMPANY, AND ITS DIRECTORS, EMPLOYEES, AGENTS, REPRESENTATIVES, SUPPLIERS, PARTNERS AND CONTENT PROVIDERS DO NOT WARRANT THAT: (A) THE APP WILL BE SECURE OR AVAILABLE AT ANY PARTICULAR TIME OR LOCATION; (B) ANY DEFECTS OR ERRORS WILL BE CORRECTED; (C) ANY CONTENT OR SOFTWARE AVAILABLE AT OR THROUGH THE APP IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; OR (D) THE RESULTS OF USING THE APP WILL MEET YOUR REQUIREMENTS. YOUR USE OF THE APP IS SOLELY AT YOUR OWN RISK. SOME STATES / COUNTRIES DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU.
+
+### Section 12. Limitation of liability
+
+IN NO EVENT SHALL THE COMPANY, ITS OFFICERS, DIRECTORS, AGENTS, AFFILIATES, EMPLOYEES, ADVERTISERS, OR DATA PROVIDERS BE LIABLE FOR ANY INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES (INCLUDING BUT NOT LIMITED TO LOSS OF USE, LOSS OF PROFITS, OR LOSS OF DATA) WHETHER IN AN ACTION IN CONTRACT, TORT (INCLUDING BUT NOT LIMITED TO NEGLIGENCE), EQUITY OR OTHERWISE, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OF THIS APP. UNDER NO CIRCUMSTANCES SHALL COMPANY BE LIABLE TO YOU FOR ANY AMOUNT FOR SERVICES RENDERED PURSUANT TO THIS AGREEMENT. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY, SO THE ABOVE LIMITATIONS MAY NOT APPLY TO YOU. THE COMPANY, OR ANY THIRD PARTIES MENTIONED ON THE APP ARE NOT LIABLE FOR ANY PERSONAL INJURY, INCLUDING DEATH, CAUSED BY YOUR USE OR MISUSE OF THE APP.
+
+### Section 13. Use of mobile devices
+
+Please note that your carrier’s normal rates and fees, such as text messaging and data charges, will still apply if you are using the App on a mobile device.
+
+### Section 14. Third Party Services
+
+The App may give you access to links to third-party websites, apps, or other products or services (“Third-party Services”). The Company does not control Third-party Services in any manner and, accordingly, does not assume any liability associated with such Third-party Services. You need to take appropriate steps to determine whether accessing a Third-party Service is appropriate, and to protect your personal information and privacy in using any such Third-Party Services.
+
+### Section 15. Your feedback
+
+We welcome your feedback about the App. Unless otherwise expressly declared, any communications you send to us are deemed to be submitted on a non-confidential basis. You agree that we may decide to publicize such contents at our own discretion. You agree to authorize us to make use of such contents for free, and revise, modify, adjust and change contextually, or make any other changes as we deem appropriate.
+
+### Section 16. Enforcement rights
+
+You agree that the failure of the Company to exercise or enforce any part of this agreement and terms does not constitute a waiver of the rights of provisions of this agreement.
+
+We are not obligated to monitor access or use of the App; however, we reserve the right to do so for purposes of operating and maintaining the App, ensuring your compliance with this Agreement, and complying with applicable legal requirements. We may disclose unlawful conduct to law enforcement authorities; and pursuant to valid legal process, we may cooperate with law enforcement authorities to prosecute users who violate the law. We reserve the right (but are not required) to remove or disable any content posted to the App or access to App at any time and without notice, and at our sole discretion, if we determine in our sole discretion that your content or use of the App is objectionable or in violation of this Agreement.
+
+The Company has no liability or responsibility to users of the App or any other person or entity for performance or nonperformance of the aforementioned activities.
+
+### Section 18. Changes to the App
+
+From time to time and without prior notice to you, we may change, expand and improve the App. We may also, at any time, cease to continue operating part or all of the App or selectively disable certain features of the App. Your use of the App does not entitle you to the continued provision or availability of the App. Any modification or elimination of the App or any particular features will be done in our sole and absolute discretion and without an ongoing obligation or liability to you. You agree that even if you have not personally visited the website with the new terms of this agreement, that they may have force immediately.
+
+### Section 19. Indemnity
+
+You agree to hold Company, its employees, agents, and representatives, as harmless and indemnify Company from any Third-party claim arising from or in any way related to your use of the Service, including liability or expense arising from all claims, losses, damages (actual and consequential), suits, judgments, litigation costs, and attorney fees, of every kind and nature.
+
+### Section 20. Jurisdiction
+
+You agree that this entire agreement (including Privacy Policy) shall be interpreted according to the laws of the Republic of Belarus.
+
+If any part of this agreement is held to be invalid or unenforceable, the provision shall be deemed to be superseded by a valid enforceable provision in its place that closely matches the intent of the original agreement, and all other parts of the agreement shall be enforced.
+
+Any cause of action you may have with respect to your use of the App must be commenced within one (1) year after the claim or cause of action arises.
+
+If for any reason a court of competent jurisdiction finds any provision of this Agreement, or a portion thereof, to be unenforceable, that provision shall be enforced to the maximum extent permissible so as to affect the intent of this Agreement, and the remainder of this Agreement shall continue in full force and effect. A printed version of this Agreement shall be admissible in judicial or administrative proceedings.
+
+No waiver of by the Company of any term or condition set forth in this Agreement shall be deemed a further or continuing waiver of such term or condition or a waiver of any other term or condition, and any failure of the Company to assert a right or provision under this Agreement shall not constitute a waiver of such right or provision. If any provision of this Agreement is held by a court or other tribunal of competent jurisdiction to be invalid, illegal or unenforceable for any reason, such provision shall be eliminated or limited to the minimum extent such that the remaining provisions of this Agreement will continue in full force and effect.
+
+Upon termination, all provisions of this Agreement, which, by their nature, should survive termination, shall survive termination, including, without limitation, ownership provisions, warranty disclaimers and limitations of liability.
+
+All claims between the parties related to this Agreement will be litigated individually and the parties will not consolidate or seek class treatment for any claim, unless previously agreed to in writing by the parties.
+
+### Section 21. Notice and takedown procedures
+
+If you believe any materials accessible on or from the App infringe your copyright, you may request removal of those materials (or access thereto) from this App by contacting the Company.
+
+### Section 22. Questions and comments
+
+If you have any comments or questions on any part of the services or any part of this Terms of Service, please feel free to contact us at nsdidenko.developer@gmail.com.
