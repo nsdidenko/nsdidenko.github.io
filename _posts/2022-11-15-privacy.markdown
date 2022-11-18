@@ -5,12 +5,12 @@ date:   2022-11-15 18:42:06 +0300
 categories: legal
 ---
 
-We are committed to respecting your data privacy and providing transparency about our data practices. This Privacy Policy (this “Privacy Policy”) explains how Mikita Didzenka (“Company” or “we” or “us”) collects, stores, uses, transfers and discloses Personal Data from our users (“you”) in connection with mobile applications and related services (collectively, the “apps”).
+We are committed to respecting your data privacy and providing transparency about our data practices. This Privacy Policy (this “Privacy Policy”) explains how Mikita Dzidzenka (“Company” or “we” or “us”) collects, stores, uses, transfers and discloses Personal Data from our users (“you”) in connection with mobile applications and related services (collectively, the “apps”).
 We reserve the right to and may change this Privacy Policy from time to time. Changes are effective immediately upon posting. Your continued use of the Apps after the effective date of an updated version of the Privacy Policy will indicate your acceptance of the Privacy Policy as modified. In some cases, you will have to explicitly accept changes to Privacy Policy to continue using the Apps. We encourage you to periodically review our website and the Apps for the latest information on our data privacy practices. If you do not accept the terms of the Privacy Policy, we ask that you do not use the Apps. Please exit the Apps immediately if you do not agree to the terms of this Privacy Policy.
 
 ### Section 1. Personal Data and information we collect
 
-##### 1.1. Personal Data you provide to us
+#### 1.1. Personal Data you provide to us
 When you sign up to use the Apps, we may collect Personal Data about you such as:
 а. Full name;
 b. Email address;
@@ -21,23 +21,23 @@ g. Place of residence;
 h. Location information;
 i. Other information about your activities (collectively, “Personal Data”).
 
-##### 1.2. The way you use our service
+#### 1.2. The way you use our service
 We collect information about how you use and interact with Apps. Such as the features you use, the actions you take, and the time, frequency and duration of your activities.
 
-##### 1.3. Device and location information
+#### 1.3. Device and location information
 When you download or use Apps, we may receive information about your device and location, which allows us to provide increased account security and regulatory compliance. It also allows us to provide location-based services such as targeted advertising, search results, and other personalized content. We also collect information about your interaction with Apps including, but not limited to, your computer browser type, pages visited, advertisements clicked on, average time spent on our websites, your IP address, unique identifiers of your device, the operating system version and app version.
 
-##### 1.4. Payment information
+#### 1.4. Payment information
 Apps may offer paid services in some markets. If you choose to subscribe to this service, we will ask for additional information. This includes your payment information, such as your credit or debit card number, other card information, and other account and authentication information, as well as billing, and contact details. For certain services, you may be required to provide your checking account number and routing number. For security purposes, you may also be asked to provide identification information to confirm your identity, including your first and last name, address, and phone number, or in some cases, a copy of an identification document.
 
-##### 1.5. Google accounts
+#### 1.5. Google accounts
 As part of using Apps, you may be presented with the option to link one or more parts of your Google account to your app account. If you authorize Apps to use your Google Account to login to Apps, your name, contact information (usually an email address) and other basic account details (profile picture, age, gender, birthday) may be shared with App at your discretion. Sharing this data is not required to start using an app. These details will be stored by Apps and will generally be treated as if you had manually provided that data to Apps under this Privacy Policy.
 
-##### 1.6. Information from other sources
+#### 1.6. Information from other sources
 Apps may collect information about you from third parties to help improve our App, or for security and support reasons. We may use publicly available information about your name, email address, phone number, or other demographic data to help you during support, to address fraud or security concerns, or to personalize your experience, including by providing ads or offers. For instance, if you have a public avatar stored on a service associated with your email, we may automatically populate your user avatar on Apps. We may also collect information about you that we may receive from other sources or from our offline interactions with you to, among other things, enable us to verify, update information contained in our records, and to better customize the App for you.
 Permitting us to access third-party information can help you to maximize your App experience, and we will handle any such third-party information in full accordance with this Privacy Policy.
 
-##### 1.7. Information we collect automatically
+#### 1.7. Information we collect automatically
 When you access or use the App, we may automatically collect the following information:
 
 а. Device Information: We collect information about the mobile device you use to access the App, including the hardware model, operating system and version, unique device identifiers and mobile network information.
@@ -54,7 +54,7 @@ II. PERSONAL DATA YOU PROVIDE TO US THROUGH THE ACCOUNT CREATION PROCESS INCLUDE
 
 III. WE WILL NOT TRANSMIT ANY OF YOUR PERSONAL DATA TO THIRD PARTIES UNLESS OTHERWISE IS PROVIDED BY THIS PRIVACY POLICY.
 
-##### 1.8. Other information
+#### 1.8. Other information
 We may request or receive other information such as feedback, questions, comments, suggestions, or ideas to provide you with other benefits or to improve upon the services.
 
 ### Section 2. How we use your Personal Data and information
@@ -89,13 +89,13 @@ We will not process Personal Data in a way that is incompatible with the purpose
 
 ### Section 3. Your rights
 
-##### 3.1. Access and choice to your Personal Data
+#### 3.1. Access and choice to your Personal Data
 
 You have a right to access your Personal Data you insert into the App and ask us about what kind of Personal Data we have about you. You can do this by using the app settings or by writing to us at nsdidenko.developer@gmail.com.
 
 You may review and update the Personal Data you have submitted to us at any time. You can make changes to your Personal Data from your Account Settings page. If you need help updating or correcting your Personal Data please contact us at nsdidenko.developer@gmail.com. Users can export data from their groups and friendships by following the instructions found here. We’re happy to help provide exports from your account. You can request exports by contacting us at nsdidenko.developer@gmail.com.
 
-##### 3.2. Your choices regarding the data we collect and process
+#### 3.2. Your choices regarding the data we collect and process
 
 In many instances, you have choices about the information you provide and limiting how we use your Personal Data. These choices, and any related consequences, are described in detail below:
 
@@ -107,7 +107,7 @@ c. most mobile devices allow you to control or disable the use of location servi
 
 d. you have the ability to choose whether or not you’d like to use many of the third-party integrations we offer. If you authorize an account connection from a third-party account or platform, such as a Google or Facebook account, you can manage your connection preferences from the third-party account or platform. Please refer to the privacy notice that governs the third-party platform for more information on the choices you may have.
 
-##### 3.3. EU residents
+#### 3.3. EU residents
 
 Individuals residing in the countries of the European Union have certain statutory rights in relation to their Personal Data introduced by the General Data Protection Regulation (the “GDPR”). Subject to any exemptions provided by law, you may have the right to request access to Personal Data (including in a structured and portable form), as well as to seek to update, delete or correct Personal Data:
 
@@ -130,11 +130,11 @@ Please keep in mind that in case of a vague access, erasure, objection request o
 Following the provisions of GDPR we might also require you to prove your identity (for example, by requesting an ID or any other proof of identity) in order for you to invoke the mentioned rights, specifically if you exercise them in respect to special categories of Personal Data like data about health. This is made to ensure that no rights of third parties are violated by your request, and the rights described in this section are exercised by an actual Personal Data subject or an authorized person.
 Please note that we will grant your request within 30 days after receiving it, but it may take us up to 90 days in some cases, for example for full erasure of your Personal Data stored in our backup systems – this is due to the size and complexity of the systems we use to store data.
 
-##### 3.4. Deleting your account
+#### 3.4. Deleting your account
 
 You may choose to close your account at any time. You can close your account from your Account Settings or request that we close it for you by writing to us at nsdidenko.developer@gmail.com. When you close your account in this way, we may allow you to reactivate it by writing to us at nsdidenko.developer@gmail.com.
 
-##### 3.5. Data retention
+#### 3.5. Data retention
 
 In accordance with and as permitted by applicable law and regulations, we will retain your information as long as necessary to serve you, to maintain your account for as long as your account is active, or as otherwise needed to operate our business. We may also retain Personal Data to comply with law, prevent fraud, resolve disputes, enforce our Terms of Service, and as permitted by applicable law.
 
@@ -146,11 +146,11 @@ When you change or delete Personal Data, or close your account from your Account
 
 We will not, without your permission, sell, publish, or share your Personal Data and information to third parties for their marketing purposes. Information may be shared in the following ways.
 
-##### 4.1. With third parties, affiliates, subsidiaries and service providers
+#### 4.1. With third parties, affiliates, subsidiaries and service providers
 
 We employ third-party agents, subsidiaries, affiliates, and/or App providers to enable them to help support and improve our App. For example, maintenance services, database management, cloud hosting, web and mobile analytics, receipt scanning services and OCR. Third parties acting on our behalf that are given access to your Personal Data are contractually obligated to abide by our privacy practices and are not allowed to use the information for any other purposes. We may share your Personal Data with other third parties with your consent or instructions to do so. Where permitted by law, third parties may use data provided to them to improve their own services.
 
-##### 4.2. Special Circumstances
+#### 4.2. Special Circumstances
 
 We will not share any of your Personal Data to any third party except as otherwise stated in this Privacy Policy and in the following circumstances:
 
@@ -160,11 +160,11 @@ b. when disclosure is required to maintain the security and integrity of the App
 
 c. when disclosure is directed or consented to by the user who has input the Personal Data.
 
-##### 4.3. Business Transfer
+#### 4.3. Business Transfer
 
 If our company or our assets are acquired by another company, or in the event of a merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation, we may transfer, sell, or assign to third parties, information concerning your relationship with us, including, without limitation, Personal Data that you provide and other information concerning your relationship with us. Such third parties will assume responsibility for the Personal Data collected by us in connection with our business operations or through our website and such third parties will assume the rights and obligations regarding such information as described in this Privacy Statement and according to applicable regulations.
 
-##### 4.4. Non-identifiable information
+#### 4.4. Non-identifiable information
 
 We may disclose information that does not personally identify you in any other manner that we deem appropriate, including to third parties for their research, marketing, and promotional purposes and to help us determine how we can improve our App and website. We will also disclose non-personal information to our service providers and other third parties about how our users collectively use the website.
 
