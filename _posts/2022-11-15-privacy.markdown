@@ -91,9 +91,9 @@ We will not process Personal Data in a way that is incompatible with the purpose
 
 #### 3.1. Access and choice to your Personal Data
 
-You have a right to access your Personal Data you insert into the App and ask us about what kind of Personal Data we have about you. You can do this by using the app settings or by writing to us at nsdidenko.developer@gmail.com.
+You have a right to access your Personal Data you insert into the App and ask us about what kind of Personal Data we have about you. You can do this by using the app settings or by writing to us at barsiksoft@gmail.com.
 
-You may review and update the Personal Data you have submitted to us at any time. You can make changes to your Personal Data from your Account Settings page. If you need help updating or correcting your Personal Data please contact us at nsdidenko.developer@gmail.com. Users can export data from their groups and friendships by following the instructions found here. We’re happy to help provide exports from your account. You can request exports by contacting us at nsdidenko.developer@gmail.com.
+You may review and update the Personal Data you have submitted to us at any time. You can make changes to your Personal Data from your Account Settings page. If you need help updating or correcting your Personal Data please contact us at barsiksoft@gmail.com. Users can export data from their groups and friendships by following the instructions found here. We’re happy to help provide exports from your account. You can request exports by contacting us at barsiksoft@gmail.com.
 
 #### 3.2. Your choices regarding the data we collect and process
 
@@ -111,13 +111,13 @@ d. you have the ability to choose whether or not you’d like to use many of the
 
 Individuals residing in the countries of the European Union have certain statutory rights in relation to their Personal Data introduced by the General Data Protection Regulation (the “GDPR”). Subject to any exemptions provided by law, you may have the right to request access to Personal Data (including in a structured and portable form), as well as to seek to update, delete or correct Personal Data:
 
-а. Rectification of Personal Data and Restriction of Processing. You are responsible for ensuring the accuracy of your Personal Data that you submit to Company. Inaccurate information will affect your experience when using the website and Apps and our ability to contact you as described in this Privacy Policy. If you believe that your Personal Data is inaccurate, you have the right to contact us and ask us to correct such Personal Data by contacting us at nsdidenko.developer@gmail.com. You shall also have the right to request restriction of processing of your Personal Data, if you contest the accuracy of the Personal Data and we need some time to verify its accuracy.
+а. Rectification of Personal Data and Restriction of Processing. You are responsible for ensuring the accuracy of your Personal Data that you submit to Company. Inaccurate information will affect your experience when using the website and Apps and our ability to contact you as described in this Privacy Policy. If you believe that your Personal Data is inaccurate, you have the right to contact us and ask us to correct such Personal Data by contacting us at barsiksoft@gmail.com. You shall also have the right to request restriction of processing of your Personal Data, if you contest the accuracy of the Personal Data and we need some time to verify its accuracy.
 
-b. Access to your Personal Data and Data Portability. The App gives you the ability to access and update Personal Data within the App and your account settings. You shall have the right to request information about whether we have any Personal Data about you, to access your Personal Data (including in a structured and portable form) by simply writing us at nsdidenko.developer@gmail.com.
+b. Access to your Personal Data and Data Portability. The App gives you the ability to access and update Personal Data within the App and your account settings. You shall have the right to request information about whether we have any Personal Data about you, to access your Personal Data (including in a structured and portable form) by simply writing us at barsiksoft@gmail.com.
 
-c. Erasure of your Personal Data. If you believe that your Personal Data is no longer necessary in relation to the purposes for which it was collected or otherwise processed, or in cases where you have withdrawn your consent or object to the processing of your Personal Data, or in cases where the processing of your Personal Data does not otherwise comply with the GDPR, you have right to contact us and ask us to erase such Personal Data as described above. You can simply write to us at nsdidenko.developer@gmail.com. Please be aware that erasing some Personal Data inserted by you may affect your possibility to utilize the App and its features. Erasure of some Personal Data may also take some time due to technical reasons.
+c. Erasure of your Personal Data. If you believe that your Personal Data is no longer necessary in relation to the purposes for which it was collected or otherwise processed, or in cases where you have withdrawn your consent or object to the processing of your Personal Data, or in cases where the processing of your Personal Data does not otherwise comply with the GDPR, you have right to contact us and ask us to erase such Personal Data as described above. You can simply write to us at barsiksoft@gmail.com. Please be aware that erasing some Personal Data inserted by you may affect your possibility to utilize the App and its features. Erasure of some Personal Data may also take some time due to technical reasons.
 
-d. Right to object processing of your Personal Data. You can object processing your Personal Data and stop us from processing your Personal Data, simply write us at nsdidenko.developer@gmail.com. Please be aware that erasing some Personal Data inserted by you may affect your possibility to use the App and its features.
+d. Right to object processing of your Personal Data. You can object processing your Personal Data and stop us from processing your Personal Data, simply write us at barsiksoft@gmail.com. Please be aware that erasing some Personal Data inserted by you may affect your possibility to use the App and its features.
 
 e. Notice about automated decision-making. We use automated decision-making tools that process your Personal Data in order to provide you proper services.
 
@@ -132,13 +132,13 @@ Please note that we will grant your request within 30 days after receiving it, b
 
 #### 3.4. Deleting your account
 
-You may choose to close your account at any time. You can close your account from your Account Settings or request that we close it for you by writing to us at nsdidenko.developer@gmail.com. When you close your account in this way, we may allow you to reactivate it by writing to us at nsdidenko.developer@gmail.com.
+You may choose to close your account at any time. You can close your account from your Account Settings or request that we close it for you by writing to us at barsiksoft@gmail.com. When you close your account in this way, we may allow you to reactivate it by writing to us at barsiksoft@gmail.com.
 
 #### 3.5. Data retention
 
 In accordance with and as permitted by applicable law and regulations, we will retain your information as long as necessary to serve you, to maintain your account for as long as your account is active, or as otherwise needed to operate our business. We may also retain Personal Data to comply with law, prevent fraud, resolve disputes, enforce our Terms of Service, and as permitted by applicable law.
 
-If you would like to fully delete your account and the information in it, you can write to us at nsdidenko.developer@gmail.com. We will use commercially reasonable efforts to remove your Personal Data from our services so long as we do not have any legal reason or obligation to retain the record. It may take up to 90 days for your information to be cleared from our servers.
+If you would like to fully delete your account and the information in it, you can write to us at barsiksoft@gmail.com. We will use commercially reasonable efforts to remove your Personal Data from our services so long as we do not have any legal reason or obligation to retain the record. It may take up to 90 days for your information to be cleared from our servers.
 
 When you change or delete Personal Data, or close your account from your Account Settings, expenses involving you (either that you have shared or that have been shared with you) and your name may remain visible to people with whom they have been shared as part of their records (just as deleting an email account does not unsend emails that have already been sent).
 
@@ -202,9 +202,9 @@ We process information in a way that is compatible with and relevant for the pur
 
 ### Section 8. Children’s privacy
 
-General age limitation. We are committed to protecting the privacy of children. The App is not intended for children and we do not intentionally collect information about children under 13 years old. The App does not collect Personal Data from any person the Company actually knows is under the age of 13. If you are aware of anyone under 13 using the App, please contact us at nsdidenko.developer@gmail.com and we will take required steps to delete such information and (or) delete her account.
+General age limitation. We are committed to protecting the privacy of children. The App is not intended for children and we do not intentionally collect information about children under 13 years old. The App does not collect Personal Data from any person the Company actually knows is under the age of 13. If you are aware of anyone under 13 using the App, please contact us at barsiksoft@gmail.com and we will take required steps to delete such information and (or) delete her account.
 
-Age limitation for EU residents. Due to requirements of the GDPR you shall be at least 16 years old in order to use the App. To the extent prohibited by applicable law, we do not allow use of the App by the EU residents younger than 16 years old. If you are aware of anyone younger than 16 using the App, please contact us at nsdidenko.developer@gmail.com and we will take steps to delete such information and (or) delete her account.
+Age limitation for EU residents. Due to requirements of the GDPR you shall be at least 16 years old in order to use the App. To the extent prohibited by applicable law, we do not allow use of the App by the EU residents younger than 16 years old. If you are aware of anyone younger than 16 using the App, please contact us at barsiksoft@gmail.com and we will take steps to delete such information and (or) delete her account.
 
 ### Section 9. Third party links
 
@@ -223,4 +223,4 @@ The Company is based in the Republic of Belarus and the information we collect i
 In addition, you agree that information collected through the App may be stored and processed in the country, where the Company rents servers, or in any other country in which the Company or its affiliates, subsidiaries or agents maintain facilities, and by using the App, you consent to any such transfer of information outside of your country.
 
 ### Section 12. Contact us
-If you have any questions or concerns about your privacy, any provisions of this Privacy Policy or any of your rights, you may contact us at Email: nsdidenko.developer@gmail.com.
+If you have any questions or concerns about your privacy, any provisions of this Privacy Policy or any of your rights, you may contact us at Email: barsiksoft@gmail.com.
