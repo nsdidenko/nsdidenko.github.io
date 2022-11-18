@@ -59,13 +59,13 @@ Any such forbidden use shall immediately terminate your license to use the App.
 
 We are committed to protecting the privacy of children. You should be aware that this App is not intended or designed to attract children under the age of 13. We do not collect personally identifiable information from any person we actually know is a child under the age of 13.
 
-If you are the EU resident, you shall be at least 16 years old in order to use the App. To the extent prohibited by applicable law, we do not allow use of the App by the EU residents younger than 16 years old. If you are aware of anyone from the EU younger than 16 using the App, please contact us at nsdidenko.developer@gmail.com and we will take steps to delete or terminate her account.
+If you are the EU resident, you shall be at least 16 years old in order to use the App. To the extent prohibited by applicable law, we do not allow use of the App by the EU residents younger than 16 years old. If you are aware of anyone from the EU younger than 16 using the App, please contact us at barsiksoft@gmail.com and we will take steps to delete or terminate her account.
 
 ### Section 6. Limited license to the App
 
 We grant you a personal, worldwide, revocable, non-transferable and non-exclusive license to access and use the App for personal and non-commercial purposes in accordance with the terms of this Agreement.
 
-All rights, title, and interest in and to the App not expressly granted in this Agreement are reserved by the Company. If you wish to use the Company’s software, title, trade name, trademark, service mark, logo, domain name and/or any other identification with notable brand features or other content owned by the Company, you must obtain written permission from the Company. Permission requests may be sent to nsdidenko.developer@gmail.com.
+All rights, title, and interest in and to the App not expressly granted in this Agreement are reserved by the Company. If you wish to use the Company’s software, title, trade name, trademark, service mark, logo, domain name and/or any other identification with notable brand features or other content owned by the Company, you must obtain written permission from the Company. Permission requests may be sent to barsiksoft@gmail.com.
 
 ### Section 7. License to User Content
 
@@ -93,7 +93,7 @@ We offer various subscription options. Payment will be charged to your credit/de
 
 ### Section 10. Passwords
 
-You are responsible for taking all reasonable steps to ensure that no unauthorized person shall have access to your App passwords or account. It is your sole responsibility to (1) control the dissemination and use of sign-in name, screen name and passwords; (2) authorize, monitory, and control access to and use of your App account and password; (3) promptly inform the Company if you believe your account or password has been compromised or if there is any other reason you need to deactivate a password. Send us an email at nsdidenko.developer@gmail.com. You grant the Company and all other persons or entities involved in the operation of the App the right to transmit, monitor, retrieve, store, and use your information in connection with the operation of the App. The Company cannot and does not assume any responsibility or liability for any information you submit, or your or third parties’ use or misuse of information transmitted or received using the App.
+You are responsible for taking all reasonable steps to ensure that no unauthorized person shall have access to your App passwords or account. It is your sole responsibility to (1) control the dissemination and use of sign-in name, screen name and passwords; (2) authorize, monitory, and control access to and use of your App account and password; (3) promptly inform the Company if you believe your account or password has been compromised or if there is any other reason you need to deactivate a password. Send us an email at barsiksoft@gmail.com. You grant the Company and all other persons or entities involved in the operation of the App the right to transmit, monitor, retrieve, store, and use your information in connection with the operation of the App. The Company cannot and does not assume any responsibility or liability for any information you submit, or your or third parties’ use or misuse of information transmitted or received using the App.
 
 ### Section 11. Warranty disclaimer
 
@@ -155,4 +155,4 @@ If you believe any materials accessible on or from the App infringe your copyrig
 
 ### Section 22. Questions and comments
 
-If you have any comments or questions on any part of the services or any part of this Terms of Service, please feel free to contact us at nsdidenko.developer@gmail.com.
+If you have any comments or questions on any part of the services or any part of this Terms of Service, please feel free to contact us at barsiksoft@gmail.com.
