@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 Contact us, if you have any questions: 
-nsdidenko.developer@gmail.com
+barsiksoft@gmail.com
 
-Best Regards!
-Nikita Didenko, iOS Developer
+
+Best Regards! 
+
+Barsik Soft
