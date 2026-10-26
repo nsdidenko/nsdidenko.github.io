@@ -6,7 +6,11 @@
       <li><a href="mailto:{{ site.email }}">{{ ui.support }}</a></li>
       <li><a href="/legal/2022/11/15/privacy.html">{{ ui.privacy }}</a></li>
       <li><a href="/legal/2022/11/15/terms.html">{{ ui.terms }}</a></li>
-      {%- if page.lang_switch %}
+      {%- if page.lang_menu %}
+      {%- for l in page.lang_menu %}{% if l.lang != page.lang %}
+      <li><a href="{{ l.href }}" hreflang="{{ l.lang }}" lang="{{ l.lang }}">{{ l.label }}</a></li>
+      {%- endif %}{% endfor %}
+      {%- elsif page.lang_switch %}
       <li><a href="{{ page.lang_switch.href }}" hreflang="{{ page.lang_switch.lang }}" lang="{{ page.lang_switch.lang }}">{{ page.lang_switch.label }}</a></li>
       {%- endif %}
     </ul>

@@ -84,6 +84,20 @@ a:hover { text-decoration: underline; }
 .lang svg { width: 16px; height: 16px; flex: none; }
 .lang-full { display: none; }
 @media (min-width: 720px) { .lang-short { display: none; } .lang-full { display: inline; } }
+/* 3+ языка (lang_menu): пилюля текущего языка раскрывает список, без JS (<details>) */
+.lang-menu { position: relative; }
+.lang-menu > summary { list-style: none; cursor: pointer; user-select: none; }
+.lang-menu > summary::-webkit-details-marker { display: none; }
+.lang-menu > summary::after { content: ""; width: 6px; height: 6px; margin: -3px 0 0 2px; border-right: 1.6px solid currentColor; border-bottom: 1.6px solid currentColor; transform: rotate(45deg); }
+.lang-menu[open] > summary::after { margin-top: 3px; transform: rotate(225deg); }
+.lang-list {
+  position: absolute; right: 0; top: calc(100% + 6px); z-index: 20;
+  min-width: 200px; margin: 0; padding: 6px; list-style: none;
+  background: var(--bg); border: 1px solid var(--line); border-radius: var(--r-m); box-shadow: var(--shadow);
+}
+.lang-list a { display: flex; align-items: center; min-height: 44px; padding: 0 12px; border-radius: var(--r-s); color: var(--text); font-size: 15px; }
+.lang-list a:hover { background: var(--surface); text-decoration: none; }
+.lang-list a[aria-current] { color: var(--accent); font-weight: 600; }
 
 /* official App Store badge, light/dark via <picture> */
 .badge { display: inline-flex; line-height: 0; border-radius: 7px; }
