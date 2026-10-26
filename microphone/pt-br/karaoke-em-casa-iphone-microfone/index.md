@@ -84,6 +84,8 @@ Aquele apito agudo é microfonia: o microfone capta a caixa, manda de volta para
 - Monte uma playlist de versões karaokê antes do pessoal chegar.
 - Ligue a opção Gravar no app se quiser guardar os melhores momentos. Depois é só mandar no grupo da família.
 
-[Baixe o Microfone Bluetooth Ao Vivo na App Store](https://apps.apple.com/app/apple-store/id6745152403?pt=120670397&ct=seo-karaoke-pt&mt=8). Baixar é grátis. O Premium libera o noise gate, o equalizador e o uso sem limite.
+[Baixe o Microfone Bluetooth Ao Vivo na App Store](https://apps.apple.com/app/apple-store/id6745152403?pt=120670397&ct=seo-karaoke-pt&mt=8){: .cta}
+
+Baixar é grátis. O Premium libera o noise gate, o equalizador e o uso sem limite.
 
 Mais sobre o app: [iPhone como microfone em qualquer caixa de som](/microphone/pt-br/).

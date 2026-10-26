@@ -84,6 +84,8 @@ The squeal you hear sometimes is feedback: the mic picks up the speaker, sends i
 - Make a playlist of karaoke versions before guests arrive.
 - Turn on Record in the app if you want to keep the best moments. Recordings save with the effect you used.
 
-[Get Bluetooth Microphone FX Pro on the App Store](https://apps.apple.com/app/apple-store/id6745152403?pt=120670397&ct=seo-karaoke-en&mt=8). It is free to download. Premium unlocks the noise gate, the equalizer and unlimited use.
+[Get Bluetooth Microphone FX Pro on the App Store](https://apps.apple.com/app/apple-store/id6745152403?pt=120670397&ct=seo-karaoke-en&mt=8){: .cta}
+
+It is free to download. Premium unlocks the noise gate, the equalizer and unlimited use.
 
 More about the app: [iPhone microphone for any speaker](/microphone/).
