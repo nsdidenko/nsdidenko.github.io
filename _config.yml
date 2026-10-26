@@ -25,9 +25,17 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: "nsdidenko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://nsdidenko.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # linkedin_username: nsdidenko
 # github_username:  nsdidenko
+
+# Search Console (MIC-22): код из meta google-site-verification вставить сюда, layout seo выведет строку.
+# google_site_verification: "КОД_ОТ_SEARCH_CONSOLE"
+
+# Меню шапки: только эти страницы (иначе minima добавит туда все страницы с title).
+header_pages:
+  - about.markdown
+  - model-score/privacy.md
 
 # Build settings
 theme: minima

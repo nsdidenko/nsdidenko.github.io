@@ -1,0 +1,20 @@
+---
+layout: null
+sitemap: false
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+{%- assign docs = site.pages | concat: site.posts -%}
+{%- for doc in docs -%}
+  {%- if doc.sitemap == false or doc.url contains '404' or doc.url contains '/assets/' or doc.url contains '.xml' or doc.url contains '.txt' -%}{%- continue -%}{%- endif %}
+  <url>
+    <loc>{{ site.url }}{{ doc.url | xml_escape }}</loc>
+    {%- if doc.sitemap_lastmod %}
+    <lastmod>{{ doc.sitemap_lastmod }}</lastmod>
+    {%- endif %}
+    {%- for alt in doc.hreflang %}
+    <xhtml:link rel="alternate" hreflang="{{ alt.lang }}" href="{{ alt.href }}"/>
+    {%- endfor %}
+  </url>
+{%- endfor %}
+</urlset>

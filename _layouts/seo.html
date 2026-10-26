@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>{{ page.title | escape }}</title>
+  <meta name="description" content="{{ page.description | escape }}">
+  {%- comment -%} Search Console: сюда строку <meta name="google-site-verification" content="..."> {%- endcomment -%}
+  {%- if site.google_site_verification %}
+  <meta name="google-site-verification" content="{{ site.google_site_verification }}">
+  {%- endif %}
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  {%- for alt in page.hreflang %}
+  <link rel="alternate" hreflang="{{ alt.lang }}" href="{{ alt.href }}">
+  {%- endfor %}
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="{{ site.title | escape }}">
+  <meta property="og:title" content="{{ page.title | escape }}">
+  <meta property="og:description" content="{{ page.description | escape }}">
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta property="og:locale" content="{{ page.og_locale }}">
+  {%- if page.og_image %}
+  <meta property="og:image" content="{{ site.url }}{{ page.og_image }}">
+  {%- endif %}
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <style>
+    :root { --bg: #fdfdfd; --text: #111; --muted: #828282; --line: #e8e8e8; --brand: #2a7ae2; --cta-text: #fff; }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg: #121212; --text: #e6e6e6; --muted: #9a9a9a; --line: #2c2c2c; --brand: #6ea8ff; --cta-text: #0b1a2e; }
+    }
+    body { background: var(--bg); color: var(--text); }
+    .site-header, .site-footer { border-color: var(--line); }
+    .site-header { border-top-color: var(--muted); }
+    .site-title, .site-title:visited, .site-nav .page-link { color: var(--text); }
+    .site-nav { background-color: var(--bg); border-color: var(--line); }
+    .site-nav .menu-icon > svg path { fill: var(--muted); }
+    .site-footer, .contact-list a { color: var(--muted); }
+    a, a:visited { color: var(--brand); }
+    .seo-page { overflow-wrap: break-word; }
+    .seo-page h1 { font-size: 2rem; line-height: 1.2; margin-bottom: 1rem; }
+    .seo-page h2 { font-size: 1.5rem; margin-top: 2rem; }
+    .seo-page img { display: block; width: 100%; max-width: 300px; height: auto; margin: 1.25rem auto; border-radius: 12px; }
+    .seo-page a.cta, .seo-page a.cta:visited { display: inline-block; padding: .7rem 1.2rem; border-radius: 10px; background: var(--brand); color: var(--cta-text); font-weight: 600; text-decoration: none; }
+    .seo-page a.cta:hover { opacity: .9; text-decoration: none; }
+    .seo-lang { font-size: .9rem; color: var(--muted); margin-bottom: 1rem; }
+    @media (max-width: 600px) { .seo-page h1 { font-size: 1.6rem; } .seo-page h2 { font-size: 1.3rem; } }
+  </style>
+</head>
+<body>
+  {%- include header.html -%}
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      <article class="seo-page">
+        {%- if page.lang_switch %}
+        <p class="seo-lang"><a href="{{ page.lang_switch.href }}" hreflang="{{ page.lang_switch.lang }}" lang="{{ page.lang_switch.lang }}">{{ page.lang_switch.label }}</a></p>
+        {%- endif %}
+        {{ content }}
+      </article>
+    </div>
+  </main>
+  {%- include footer.html -%}
+</body>
+</html>
