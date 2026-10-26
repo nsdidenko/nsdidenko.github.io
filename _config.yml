@@ -30,7 +30,7 @@ url: "https://nsdidenko.github.io" # the base hostname & protocol for your site,
 # github_username:  nsdidenko
 
 # Search Console (MIC-22): код из meta google-site-verification вставить сюда, layout seo выведет строку.
-# google_site_verification: "КОД_ОТ_SEARCH_CONSOLE"
+google_site_verification: "56mKXHrCsM4EjYefUb7XGgTgqjJSoL5jcSUfctpTTE0"
 
 # Меню шапки: только эти страницы (иначе minima добавит туда все страницы с title).
 header_pages:
