@@ -167,7 +167,7 @@ a.cta { text-wrap: balance; }
 /* ---------- prose ---------- */
 .seo-page h2 {
   font-size: clamp(1.5rem, 1.2rem + 1.2vw, 2rem); line-height: 1.2; letter-spacing: -.02em; font-weight: 700;
-  margin: 48px auto var(--sp-m);
+  margin: 48px auto var(--sp-m) 0;
 }
 @media (min-width: 760px) { .seo-page h2 { margin-top: 56px; } }
 .seo-page h2 + p, .seo-page h2 + ul, .seo-page h2 + ol { margin-top: 0; }
