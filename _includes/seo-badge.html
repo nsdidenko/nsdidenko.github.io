@@ -1,0 +1,6 @@
+{%- comment -%} Официальный бейдж App Store (Apple marketing tools), чёрный в светлой теме, белый в тёмной. Параметр: include.link {%- endcomment -%}
+{%- assign ui = site.data.seo_ui[page.lang] -%}
+<a class="badge" href="{{ include.link }}" rel="noopener"><picture>
+  <source srcset="/assets/badges/app-store-{{ ui.badge }}-white.svg" media="(prefers-color-scheme: dark)">
+  <img src="/assets/badges/app-store-{{ ui.badge }}-black.svg" alt="{{ ui.badge_alt }}" width="120" height="40" fetchpriority="high" decoding="async">
+</picture></a>

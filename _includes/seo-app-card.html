@@ -1,0 +1,6 @@
+{%- assign ui = site.data.seo_ui[page.lang] -%}
+<aside class="app-card">
+  <img class="app-card-icon" src="/microphone/img/app-icon.png" width="56" height="56" alt="" decoding="async">
+  <span class="app-card-text"><span class="app-card-name">{{ ui.app_name }}</span><span class="app-card-sub">{{ ui.app_sub }}</span></span>
+  <a class="cta cta-card" href="{{ page.app_store_link }}">{{ ui.get }}</a>
+</aside>

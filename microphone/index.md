@@ -17,16 +17,24 @@ lang_switch:
   lang: pt-BR
   href: /microphone/pt-br/
   label: Português (Brasil)
+app_store_link: https://apps.apple.com/app/apple-store/id6745152403?pt=120670397&ct=seo-landing-en&mt=8
 sitemap_lastmod: '2026-10-26'
 ---
 
-# Use your iPhone as a microphone for any speaker
+<section class="hero" markdown="1">
+<div class="hero-copy" markdown="1">
 
-<img src="/microphone/img/iphone-bluetooth-microphone-app.jpg" alt="Bluetooth Microphone FX Pro app icon-style hero: a silver studio microphone next to the Bluetooth logo" width="600" height="1303" decoding="async">
+# Use your iPhone as a microphone for any speaker
 
 Bluetooth Microphone FX Pro turns the iPhone in your pocket into a live microphone. Connect a Bluetooth or AirPlay speaker, tap the big mic button, and your voice comes out of the speaker as you talk. No extra hardware, no cables to buy.
 
 [Download on the App Store](https://apps.apple.com/app/apple-store/id6745152403?pt=120670397&ct=seo-landing-en&mt=8){: .cta}
+
+</div>
+<figure class="hero-art">
+<img src="/microphone/img/iphone-bluetooth-microphone-app.jpg" alt="Bluetooth Microphone FX Pro app icon-style hero: a silver studio microphone next to the Bluetooth logo" width="600" height="1303" decoding="async">
+</figure>
+</section>
 
 ## What people use it for
 
@@ -39,21 +47,26 @@ People open the app for things like these:
 
 If you want to sing tonight and have a speaker on the shelf, start with our guide: [Karaoke at home with your iPhone as the microphone](/microphone/karaoke-at-home-iphone-microphone/).
 
+<div class="shots">
+<figure class="shot"><img src="/microphone/img/iphone-microphone-connect-bluetooth-speaker.jpg" alt="Connect screen: an iPhone sends sound to a Bluetooth speaker over the air" width="600" height="1303" loading="lazy" decoding="async"></figure>
+<figure class="shot"><img src="/microphone/img/iphone-microphone-voice-effects.jpg" alt="Voice effects screen: the main microphone with presets Normal, Hall, Mountain and Studio" width="600" height="1303" loading="lazy" decoding="async"></figure>
+<figure class="shot"><img src="/microphone/img/iphone-microphone-noise-gate-equalizer.jpg" alt="Settings screen with level meters, noise gate set to medium and an equalizer with bass, mid and treble" width="600" height="1303" loading="lazy" decoding="async"></figure>
+<figure class="shot"><img src="/microphone/img/iphone-microphone-recordings.jpg" alt="Recordings list with dated sessions and the Record toggle switched on" width="600" height="1303" loading="lazy" decoding="async"></figure>
+</div>
+
 ## How it works
 
 1. Pair your speaker in iPhone Settings, then Bluetooth. AirPlay speakers work too.
 2. Open the app and tap the AirPlay button at the top (the antenna icon). Pick your speaker.
 3. Tap the microphone and speak. Your voice plays through the speaker right away.
 
-<img src="/microphone/img/iphone-microphone-connect-bluetooth-speaker.jpg" alt="Connect screen: an iPhone sends sound to a Bluetooth speaker over the air" width="600" height="1303" loading="lazy" decoding="async">
-
 If no speaker is connected, the app tells you before you start, so you don't end up talking into the phone's own speaker by mistake.
+
+{% include seo-app-card.html %}
 
 ## Sound settings you can actually hear
 
 Your voice doesn't have to sound like a phone call. The app has presets for the space you want to sound like: Normal, Hall, Mountain, Studio, Echo, Cathedral and Lo-Fi. Hall adds a soft room echo that suits ballads. Studio keeps the voice close and dry, which works better for speech.
-
-<img src="/microphone/img/iphone-microphone-voice-effects.jpg" alt="Voice effects screen: the main microphone with presets Normal, Hall, Mountain and Studio" width="600" height="1303" loading="lazy" decoding="async">
 
 There is also a voice changer with nine characters, among them Robot, Alien, Chipmunk, Monster, Baby and Demon. It is silly and it is the first thing kids find.
 
@@ -63,13 +76,9 @@ For a cleaner sound:
 - **Equalizer.** Bass, mid and treble sliders. Turn the bass down if your speaker booms, turn the treble down if your voice sounds sharp.
 - **Level meters.** Input and output bars show whether you're too quiet or clipping.
 
-<img src="/microphone/img/iphone-microphone-noise-gate-equalizer.jpg" alt="Settings screen with level meters, noise gate set to medium and an equalizer with bass, mid and treble" width="600" height="1303" loading="lazy" decoding="async">
-
 ## Record and share
 
 Flip the Record toggle on the main screen and the app saves the session with your chosen effect. Recordings get dates and names you can edit, and you can send them to a friend or keep them to hear how your singing changes over a few weeks.
-
-<img src="/microphone/img/iphone-microphone-recordings.jpg" alt="Recordings list with dated sessions and the Record toggle switched on" width="600" height="1303" loading="lazy" decoding="async">
 
 ## About delay, honestly
 
@@ -89,4 +98,9 @@ The app is free to download. Premium unlocks the noise gate, the equalizer and u
 
 **Is there an Android version?** No, it is iPhone only.
 
+<div class="cta-band" markdown="1">
+{% include seo-band-head.html %}
+
 [Get Bluetooth Microphone FX Pro on the App Store](https://apps.apple.com/app/apple-store/id6745152403?pt=120670397&ct=seo-landing-en&mt=8){: .cta}
+
+</div>

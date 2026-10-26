@@ -17,12 +17,20 @@ lang_switch:
   lang: pt-BR
   href: /microphone/pt-br/karaoke-em-casa-iphone-microfone/
   label: Português (Brasil)
+app_store_link: https://apps.apple.com/app/apple-store/id6745152403?pt=120670397&ct=seo-karaoke-en&mt=8
 sitemap_lastmod: '2026-10-26'
 ---
+
+<section class="hero hero-article" markdown="1">
+<div class="hero-copy" markdown="1">
 
 # Karaoke at home: how to use your iPhone as a microphone
 
 You have a speaker, a TV or a laptop with YouTube, and friends who want to sing. What you don't have is a karaoke mic. Your iPhone can fill that gap in about two minutes. This guide covers the setup, the one real catch (delay), and how to get a voice that sounds good over the music.
+
+</div>
+{% include seo-app-card.html %}
+</section>
 
 ## What you need
 
@@ -39,7 +47,11 @@ You have a speaker, a TV or a laptop with YouTube, and friends who want to sing.
 4. Start the song. Search YouTube for the song title plus "karaoke" and you'll get a version with lyrics on screen.
 5. Go back to the microphone app and tap the big mic button. Sing.
 
-<img src="/microphone/img/karaoke-iphone-bluetooth-speaker.jpg" alt="Connect screen: the iPhone sends sound to a Bluetooth speaker" width="600" height="1303" decoding="async">
+<div class="shots shots-1">
+<figure class="shot"><img src="/microphone/img/karaoke-iphone-bluetooth-speaker.jpg" alt="Connect screen: the iPhone sends sound to a Bluetooth speaker" width="600" height="1303" decoding="async"></figure>
+</div>
+
+{% include seo-app-card.html %}
 
 Put the music and the voice through the same speaker if you can. When the song plays from the TV and your voice from a separate speaker, the two drift apart and it gets hard to stay on beat.
 
@@ -63,13 +75,14 @@ If some delay is still there, follow the music, not your own voice in the speake
 
 A phone mic through a speaker can sound flat or boomy. Three settings do most of the work:
 
-<img src="/microphone/img/karaoke-voice-presets-iphone.jpg" alt="Voice presets on the main screen: Normal, Hall, Mountain, Studio" width="600" height="1303" loading="lazy" decoding="async">
+<div class="shots shots-2">
+<figure class="shot"><img src="/microphone/img/karaoke-voice-presets-iphone.jpg" alt="Voice presets on the main screen: Normal, Hall, Mountain, Studio" width="600" height="1303" loading="lazy" decoding="async"></figure>
+<figure class="shot"><img src="/microphone/img/karaoke-noise-gate-equalizer-iphone.jpg" alt="Settings with level meters, noise gate on medium and the equalizer" width="600" height="1303" loading="lazy" decoding="async"></figure>
+</div>
 
 - **A room preset.** Hall adds a soft echo that hides small mistakes, good for ballads. Studio keeps the voice dry and clear, good for rap or fast songs.
 - **Equalizer.** If the speaker booms, pull the bass down. If your voice gets sharp on high notes, pull the treble down a little.
 - **Noise gate.** It cuts the mic between lines, so the speaker stays quiet while you wait for the next verse. Start on medium. On strong it can clip the first soft word of a line.
-
-<img src="/microphone/img/karaoke-noise-gate-equalizer-iphone.jpg" alt="Settings with level meters, noise gate on medium and the equalizer" width="600" height="1303" loading="lazy" decoding="async">
 
 Watch the level meter while you sing the loudest part of the song. If the bar hits the end, lower the master volume or step back from the phone.
 
@@ -84,8 +97,13 @@ The squeal you hear sometimes is feedback: the mic picks up the speaker, sends i
 - Make a playlist of karaoke versions before guests arrive.
 - Turn on Record in the app if you want to keep the best moments. Recordings save with the effect you used.
 
+<div class="cta-band" markdown="1">
+{% include seo-band-head.html %}
+
 [Get Bluetooth Microphone FX Pro on the App Store](https://apps.apple.com/app/apple-store/id6745152403?pt=120670397&ct=seo-karaoke-en&mt=8){: .cta}
 
 It is free to download. Premium unlocks the noise gate, the equalizer and unlimited use.
+
+</div>
 
 More about the app: [iPhone microphone for any speaker](/microphone/).

@@ -1,0 +1,14 @@
+{%- assign ui = site.data.seo_ui[page.lang] -%}
+<footer class="site-foot">
+  <div class="wrap foot-in">
+    <span>© {{ site.time | date: "%Y" }} {{ site.title | escape }}</span>
+    <ul class="foot-links">
+      <li><a href="mailto:{{ site.email }}">{{ ui.support }}</a></li>
+      <li><a href="/legal/2022/11/15/privacy.html">{{ ui.privacy }}</a></li>
+      <li><a href="/legal/2022/11/15/terms.html">{{ ui.terms }}</a></li>
+      {%- if page.lang_switch %}
+      <li><a href="{{ page.lang_switch.href }}" hreflang="{{ page.lang_switch.lang }}" lang="{{ page.lang_switch.lang }}">{{ page.lang_switch.label }}</a></li>
+      {%- endif %}
+    </ul>
+  </div>
+</footer>

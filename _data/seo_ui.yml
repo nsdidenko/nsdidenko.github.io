@@ -1,0 +1,23 @@
+# UI-строки шапки/подвала/карточки SEO-страниц (layout seo, MIC-24). Тексты статей — в самих страницах.
+en:
+  brand: Microphone
+  brand_href: /microphone/
+  app_name: Bluetooth Microphone FX Pro
+  app_sub: Free download · iPhone
+  badge: en
+  badge_alt: Download on the App Store
+  get: Get the app
+  support: Support
+  privacy: Privacy Policy
+  terms: Terms of Use
+pt-BR:
+  brand: Microfone
+  brand_href: /microphone/pt-br/
+  app_name: Microfone Bluetooth Ao Vivo
+  app_sub: Grátis para baixar · iPhone
+  badge: pt-br
+  badge_alt: Disponível na App Store
+  get: Baixar o app
+  support: Suporte
+  privacy: Política de Privacidade
+  terms: Termos de Uso

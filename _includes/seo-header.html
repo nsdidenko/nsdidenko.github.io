@@ -1,0 +1,15 @@
+{%- assign ui = site.data.seo_ui[page.lang] -%}
+<header class="site-bar">
+  <div class="wrap bar-in">
+    <a class="brand" href="{{ ui.brand_href }}"><img class="brand-icon" src="/microphone/img/app-icon.png" width="32" height="32" alt="" fetchpriority="high" decoding="async"><span class="brand-name">{{ ui.brand }}</span></a>
+    <nav class="bar-actions" aria-label="Language and download">
+      {%- if page.lang_switch %}
+      <a class="lang" href="{{ page.lang_switch.href }}" hreflang="{{ page.lang_switch.lang }}" lang="{{ page.lang_switch.lang }}" title="{{ page.lang_switch.label }}" aria-label="{{ page.lang_switch.label }}">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.8 3 2.8 15 0 18M12 3c-2.8 3-2.8 15 0 18"/></svg>
+        <span class="lang-short">{{ page.lang_switch.lang | upcase }}</span><span class="lang-full">{{ page.lang_switch.label }}</span>
+      </a>
+      {%- endif %}
+      {%- include seo-badge.html link=page.app_store_link -%}
+    </nav>
+  </div>
+</header>
