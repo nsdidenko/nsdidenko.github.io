@@ -11,24 +11,12 @@ hreflang:
   href: https://nsdidenko.github.io/microphone/
 - lang: pt-BR
   href: https://nsdidenko.github.io/microphone/pt-br/
-- lang: de
-  href: https://nsdidenko.github.io/microphone/de/
 - lang: x-default
   href: https://nsdidenko.github.io/microphone/
 lang_switch:
   lang: pt-BR
   href: /microphone/pt-br/
   label: Português (Brasil)
-lang_menu:
-- lang: en
-  href: /microphone/
-  label: English
-- lang: pt-BR
-  href: /microphone/pt-br/
-  label: Português (Brasil)
-- lang: de
-  href: /microphone/de/
-  label: Deutsch
 app_store_link: https://apps.apple.com/app/apple-store/id6745152403?pt=120670397&ct=seo-landing-en&mt=8
 sitemap_lastmod: '2026-10-26'
 ---
@@ -38,24 +26,26 @@ sitemap_lastmod: '2026-10-26'
 
 # Use your iPhone as a microphone for any speaker
 
-Bluetooth Microphone FX Pro turns your iPhone into a live mic. Connect a Bluetooth or AirPlay speaker, tap the big mic button and start talking. Your voice comes out of the speaker as you speak. You don't need to buy a mic or run any cables.
+Bluetooth Microphone FX Pro turns the iPhone in your pocket into a live microphone. Connect a Bluetooth or AirPlay speaker, tap the big mic button, and your voice comes out of the speaker as you talk. No extra hardware, no cables to buy.
 
 [Download on the App Store](https://apps.apple.com/app/apple-store/id6745152403?pt=120670397&ct=seo-landing-en&mt=8){: .cta}
 
 </div>
 <figure class="hero-art">
-<img src="/microphone/img/iphone-bluetooth-microphone-app.jpg" alt="A silver studio microphone next to the Bluetooth logo" width="600" height="1303" decoding="async">
+<img src="/microphone/img/iphone-bluetooth-microphone-app.jpg" alt="Bluetooth Microphone FX Pro app icon-style hero: a silver studio microphone next to the Bluetooth logo" width="600" height="1303" decoding="async">
 </figure>
 </section>
 
 ## What people use it for
 
-- Karaoke at home, when someone brought a speaker but nobody has a mic.
-- Speaking to a room. A birthday toast, trivia night, a class, a tour group.
-- Practicing a song or a speech and hearing what you really sound like through a speaker.
-- Goofing around with the kids using the Monster or Helium voice.
+People open the app for things like these:
 
-Want to sing tonight? Here's how to set it up: [Karaoke at home with your iPhone as the mic](/microphone/karaoke-at-home-iphone-microphone/).
+- Karaoke at home, when the party has a speaker but nobody owns a mic.
+- Talking to a room. A toast at a birthday, a quiz night, a class, a tour group in a museum courtyard.
+- Practicing vocals or a speech and hearing how you actually sound through a speaker.
+- Voice pranks with the kids, using Monster or Helium.
+
+If you want to sing tonight and have a speaker on the shelf, start with our guide: [Karaoke at home with your iPhone as the microphone](/microphone/karaoke-at-home-iphone-microphone/).
 
 <div class="shots">
 <figure class="shot"><img src="/microphone/img/iphone-microphone-connect-bluetooth-speaker.jpg" alt="Connect screen: an iPhone sends sound to a Bluetooth speaker over the air" width="600" height="1303" loading="lazy" decoding="async"></figure>
@@ -66,47 +56,47 @@ Want to sing tonight? Here's how to set it up: [Karaoke at home with your iPhone
 
 ## How it works
 
-1. Pair your speaker in Settings > Bluetooth on your iPhone. AirPlay speakers work too.
-2. Open the app and tap the AirPlay button at the top. It looks like a little antenna. Pick your speaker.
-3. Tap the mic and talk. Your voice plays through the speaker right away.
+1. Pair your speaker in iPhone Settings, then Bluetooth. AirPlay speakers work too.
+2. Open the app and tap the AirPlay button at the top (the antenna icon). Pick your speaker.
+3. Tap the microphone and speak. Your voice plays through the speaker right away.
 
-If no speaker is connected, the app warns you before you start, so you won't end up talking into your phone's own speaker.
+If no speaker is connected, the app tells you before you start, so you don't end up talking into the phone's own speaker by mistake.
 
 {% include seo-app-card.html %}
 
-## Voice effects and sound settings
+## Sound settings you can actually hear
 
-Your voice doesn't have to sound like a phone call. Pick a preset for the kind of room you want: Normal, Hall, Mountain, Studio, Echo, Cathedral or Lo-Fi. Hall adds a soft echo that's great for slow songs. Studio keeps your voice close and dry, which is better for talking.
+Your voice doesn't have to sound like a phone call. The app has presets for the space you want to sound like: Normal, Hall, Mountain, Studio, Echo, Cathedral and Lo-Fi. Hall adds a soft room echo that suits ballads. Studio keeps the voice close and dry, which works better for speech.
 
-There's also a voice changer with nine characters, including Robot, Alien, Chipmunk, Monster, Baby and Demon. It's silly, and kids find it in about five seconds.
+There is also a voice changer with nine characters, among them Robot, Alien, Chipmunk, Monster, Baby and Demon. It is silly and it is the first thing kids find.
 
-To clean up the sound:
+For a cleaner sound:
 
-- **Noise gate.** It shuts the mic off between phrases, so the speaker doesn't hiss or hum while you're quiet. You can set it to weak, medium or strong.
-- **Equalizer.** Sliders for bass, mid and treble. If your speaker sounds boomy, turn down the bass. If your voice sounds harsh, turn down the treble.
-- **Level meters.** The input and output bars tell you if you're too quiet or clipping.
+- **Noise gate.** It mutes the mic between phrases, so the speaker doesn't hiss and hum while you're quiet. Three strengths: weak, medium, strong.
+- **Equalizer.** Bass, mid and treble sliders. Turn the bass down if your speaker booms, turn the treble down if your voice sounds sharp.
+- **Level meters.** Input and output bars show whether you're too quiet or clipping.
 
 ## Record and share
 
-Turn on the Record switch on the main screen and the app saves what you sing or say, with the effect you picked. Each recording is dated and you can rename it. Send it to a friend, or keep a few and listen back in a month to see if your singing got better.
+Flip the Record toggle on the main screen and the app saves the session with your chosen effect. Recordings get dates and names you can edit, and you can send them to a friend or keep them to hear how your singing changes over a few weeks.
 
-## What about delay?
+## About delay, honestly
 
-Any wireless speaker adds a small delay between your voice and the sound coming out. The app keeps its part short, but Bluetooth itself takes time, and how much depends on the speaker. When you're just talking, you'll barely notice. When you're singing, some people hear a slight echo of themselves. Our karaoke guide covers how to cut the delay down and when it's worth using a cable instead.
+Every wireless speaker adds a small delay between your voice and the sound coming out. The app keeps its own part short, but Bluetooth itself takes time, and how much depends on the speaker. For talking it rarely matters. For singing, some people notice a slight echo of themselves. Our karaoke guide explains how to keep it small, and when a cable is the better choice.
 
 ## Price
 
-The app is free to download. Premium unlocks the noise gate, the equalizer and unlimited use. Before you pay, the subscription screen shows the price in your currency and the free trial terms. You can cancel anytime in your iPhone settings.
+The app is free to download. Premium unlocks the noise gate, the equalizer and unlimited use. The subscription screen shows the price for your country and the trial terms before you pay, and you can cancel any time in iPhone Settings.
 
-## Common questions
+## Questions people ask
 
-**Does it work with JBL, Sony or other brands?** Yes. If your iPhone can connect to the speaker over Bluetooth or AirPlay, the app will work with it. Brand doesn't matter.
+**Does it work with JBL, Sony or other brands?** Any speaker your iPhone can connect to over Bluetooth or AirPlay will work. The app doesn't care about the brand.
 
-**Can I play music and sing at the same time?** Yes. Start the song on YouTube, Spotify or Apple Music, then turn on the mic in the app. Both play through the same speaker.
+**Can I play music and sing at the same time?** Yes. Play the song from YouTube, Spotify or Apple Music, then turn on the mic in the app. Both go to the same speaker.
 
-**Do I need Wi-Fi or data?** No. The mic works offline.
+**Do I need internet?** No. The microphone works offline.
 
-**Is there an Android version?** No, it's iPhone only.
+**Is there an Android version?** No, it is iPhone only.
 
 <div class="cta-band" markdown="1">
 {% include seo-band-head.html %}
